@@ -1,0 +1,22 @@
+{
+  "name": "cx-algo-oav1-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminebaha/cx-algo-oav1-TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminebaha/cx-algo-oav1-TDD/issues"
+  },
+  "homepage": "https://github.com/aminebaha/cx-algo-oav1-TDD#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
